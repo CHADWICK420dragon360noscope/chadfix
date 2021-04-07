@@ -7522,7 +7522,7 @@ christian = {
 		intermarry = cathar_reformed
 		intermarry = mari_christ_reformed
 		intermarry = montanist_reformed
-		intermarry = slavic_christian_reformed
+	 	intermarry = slavic_christian_reformed
 		
 		religious_clothing_head = 0
 		religious_clothing_priest = 1
@@ -12754,7 +12754,7 @@ graecoroman_group = {
 		priest_title = PONTIFEX
 		scripture_name = LIBRI_PONTIFICALES
 		god_names = {
-			GOD_JUPITER GOD_JUNO GOD_MINERVA GOD_GODEMPEROR GOD_CAESAR GOD_ALEXANDROS GOD_VESTA GOD_MARS
+			GOD_JUPITER GOD_JUNO GOD_MINERVA GOD_GODEMPEROR GOD_CAESAR GOD_ALEXANDROS GOD_VESTA GOD_MARS GOD_AUGUSTUS
 		}
 		evil_god_names = {
 			MORS DISCORDIA LETUM AVERNUS
@@ -12804,6 +12804,8 @@ graecoroman_group = {
 		}
 		
 		can_call_crusade = no
+        pentarchy = yes
+		autocephaly = yes
 		can_excommunicate = yes
 		can_grant_claim = yes
 		can_grant_divorce = yes

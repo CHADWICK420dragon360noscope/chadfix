@@ -678,7 +678,7 @@ iranian = {
 	graphical_cultures = { muslimgfx }
 	
 	persian = {
-		graphical_cultures = { persiangfx oldpersiangfx }
+		graphical_cultures = { persiangfx }
 		
 		color = { 0.8 0.8 0.4 }
 
@@ -714,7 +714,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	parthian = {
-		graphical_cultures = { persiangfx oldpersiangfx }
+		graphical_cultures = { persiangfx }
 		
 		color = { 0.6 0.6 0.1 }
 
@@ -736,7 +736,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	sarmatian = {
-		graphical_cultures = { alangfx turkishgfx }
+		graphical_cultures = { turkishgfx }
 		
 		color = { 1.0 0.6 0.0 }
 
@@ -755,7 +755,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	saka = {
-		graphical_cultures = { turkishgfx oldturkishgfx }
+		graphical_cultures = { turkishgfx }
 
 		color = { 0.05 0.4 0.4 }
 
@@ -778,7 +778,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	alan = {
-		graphical_cultures = { alangfx turkishgfx }
+		graphical_cultures = { turkishgfx }
 		
 		color = { 0.65 0.50 0.15 }
 
@@ -797,7 +797,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	kurdish = {
-		graphical_cultures = { persiangfx oldpersiangfx }
+		graphical_cultures = { persiangfx }
 		
 		color = { 0.3 0.35 0.1 }
 
@@ -867,7 +867,7 @@ iranian = {
 		modifier = default_culture_modifier
 	}
 	tocharian = { #Actually Sogdian
-		graphical_cultures = { persiangfx oldpersiangfx }
+		graphical_cultures = { persiangfx}
 		
 		color = { 0.35 0.75 0.75 }
 
@@ -2337,7 +2337,7 @@ altaic = {
 	graphical_cultures = { turkishgfx mongolgfx muslimgfx }
 
 	turkish = {
-		graphical_cultures = { turkishgfx oldturkishgfx }
+		graphical_cultures = { turkishgfx }
 		
 		color = { 0.85 0.55 0.15 }
 
@@ -2364,7 +2364,7 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	avar = {
-		graphical_cultures = { turkishgfx oldturkishgfx }
+		graphical_cultures = { turkishgfx }
 		
 		color = { 0.7 0.7 0.3 }
 
@@ -2381,7 +2381,7 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	cuman = {
-		graphical_cultures = { cumangfx oldcumangfx }
+		graphical_cultures = { oldcumangfx }
 		
 		color = { 0.75 0.6 0.2 }
 
@@ -2400,7 +2400,7 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	bulgar = {
-		graphical_cultures = { cumangfx oldcumangfx }
+		graphical_cultures = { oldcumangfx }
 		
 		color = { 0.35 0.45 0.25 }
 
@@ -2531,7 +2531,7 @@ altaic = {
 		modifier = default_culture_modifier
 	}
 	xiongnu = {
-		graphical_cultures = { mongolgfx }
+		graphical_cultures = {  centralasiangfx mongolgfx }
 		
 		color = { 0.8 0.35 0.15 }
 

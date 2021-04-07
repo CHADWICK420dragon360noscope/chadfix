@@ -1669,6 +1669,7 @@ e_roman = {
 					pentarchy = sol_boreas_reformed
 					pentarchy = sol_islam_reformed
 					pentarchy = sol_sahara_reformed
+					pentarchy = roman_imperial
 				}
 				b_viterbo = {}
 				b_tusculum = {}
@@ -18578,6 +18579,7 @@ e_levant = { # dejure empire for Judea, Egypt, Palmyra & Syria
 					pentarchy = sol_boreas_reformed
 					pentarchy = sol_islam_reformed
 					pentarchy = sol_sahara_reformed
+					pentarchy = roman_imperial
 				}
 				b_nablus = {}
 				b_rammala = {}
@@ -19063,6 +19065,7 @@ e_levant = { # dejure empire for Judea, Egypt, Palmyra & Syria
 					pentarchy = sol_boreas_reformed
 					pentarchy = sol_islam_reformed
 					pentarchy = sol_sahara_reformed
+					pentarchy = roman_imperial
 				}
 				b_abukir = {}
 				b_damanhur = {}
@@ -19969,6 +19972,7 @@ e_north_africa = { # dejure empire for Mauretania, Africa, Carthage, Kyrene & Nu
 					pentarchy = sol_boreas_reformed
 					pentarchy = sol_islam_reformed
 					pentarchy = sol_sahara_reformed
+					pentarchy = roman_imperial
 				}
 				b_ariana = {}
 				b_sousse = {}
