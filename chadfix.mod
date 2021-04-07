@@ -1,6 +1,6 @@
-name = "Lux Invicta github" 
-path = "mod/Lux-Invicta-repository"
-user_dir = "Lux Invicta"
+name = "chadfix" 
+path = "mod/chadfix"
+user_dir = "chadfix"
 
 replace_path = common/buildings
 replace_path = common/trade_routes
