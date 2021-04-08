@@ -177,6 +177,12 @@ crusade = {
 								region = custom_crusade_cybele_reformed
 							}
 						}
+							AND = {
+							religion = ROMAN_IMPERIAL
+							PREV = {
+								region = custom_crusade_cybele_reformed
+							}
+						}
 						AND = {
 							religion = ethiopian_war_reformed
 							PREV = {
