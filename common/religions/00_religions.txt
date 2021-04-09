@@ -12749,7 +12749,7 @@ graecoroman_group = {
 		heresy_icon = 221
 		
 		high_god_name = GOD_JUPITER
-		
+		crusade_name = IMPERIAL_CRUSADE
 		piety_name = PIETY
 		priest_title = PONTIFEX
 		scripture_name = LIBRI_PONTIFICALES
