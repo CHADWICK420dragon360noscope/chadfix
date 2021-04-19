@@ -10256,7 +10256,7 @@ christian = {
 	}
 	
 	semipelagian = {
-		crusade_name = CRUSADE
+		crusade_name = Benediction
 		graphical_culture = westerngfx
 		color = { 230 101 230 }
 		icon = 234
@@ -21244,7 +21244,7 @@ sol_group = {
 		}
 		
 		pentarchy = yes
-		can_call_crusade = no
+		can_call_crusade = yes
 		can_excommunicate = yes
 		can_grant_claim = yes
 		can_grant_divorce = yes
@@ -24638,7 +24638,7 @@ zoroastrian_group = {
 		color = { 200 50 115 }
 		icon = 365
 		heresy_icon = 367
-		
+	
 		high_god_name = GOD_AHURA_MAZDA
 		
 		parent = zoroastrian
